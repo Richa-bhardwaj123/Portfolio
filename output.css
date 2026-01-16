@@ -748,7 +748,7 @@ video {
 }
 
 .w-28 {
-  width: 7rem;
+  width: 11rem;
 }
 
 .w-3 {
@@ -1279,7 +1279,8 @@ video {
   }
 
   .sm\:w-80 {
-    width: 20rem;
+    width: 18rem;
+    height: 500px;
   }
 
   .sm\:grid-cols-3 {
